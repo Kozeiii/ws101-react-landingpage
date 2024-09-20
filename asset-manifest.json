@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/https//Kozeiii.github.io/ws101-react-landingpage/static/css/main.178980a8.css",
-    "main.js": "/https//Kozeiii.github.io/ws101-react-landingpage/static/js/main.0fb65e00.js",
-    "static/media/image1.png": "/https//Kozeiii.github.io/ws101-react-landingpage/static/media/image1.979694a5d7bce09b67c3.png",
-    "static/media/image3.png": "/https//Kozeiii.github.io/ws101-react-landingpage/static/media/image3.5e88f85d169c8bc9b1e5.png",
-    "static/media/image2.png": "/https//Kozeiii.github.io/ws101-react-landingpage/static/media/image2.017c1c52cd139aadf0d8.png",
-    "static/media/image4.png": "/https//Kozeiii.github.io/ws101-react-landingpage/static/media/image4.904f4fd4e7c59955f05f.png",
-    "index.html": "/https//Kozeiii.github.io/ws101-react-landingpage/index.html",
-    "main.178980a8.css.map": "/https//Kozeiii.github.io/ws101-react-landingpage/static/css/main.178980a8.css.map",
-    "main.0fb65e00.js.map": "/https//Kozeiii.github.io/ws101-react-landingpage/static/js/main.0fb65e00.js.map"
+    "main.css": "/https//kozeiii.github.io/ws101-react-landingpage/static/css/main.178980a8.css",
+    "main.js": "/https//kozeiii.github.io/ws101-react-landingpage/static/js/main.0a18948a.js",
+    "static/media/image1.png": "/https//kozeiii.github.io/ws101-react-landingpage/static/media/image1.979694a5d7bce09b67c3.png",
+    "static/media/image3.png": "/https//kozeiii.github.io/ws101-react-landingpage/static/media/image3.5e88f85d169c8bc9b1e5.png",
+    "static/media/image2.png": "/https//kozeiii.github.io/ws101-react-landingpage/static/media/image2.017c1c52cd139aadf0d8.png",
+    "static/media/image4.png": "/https//kozeiii.github.io/ws101-react-landingpage/static/media/image4.904f4fd4e7c59955f05f.png",
+    "index.html": "/https//kozeiii.github.io/ws101-react-landingpage/index.html",
+    "main.178980a8.css.map": "/https//kozeiii.github.io/ws101-react-landingpage/static/css/main.178980a8.css.map",
+    "main.0a18948a.js.map": "/https//kozeiii.github.io/ws101-react-landingpage/static/js/main.0a18948a.js.map"
   },
   "entrypoints": [
     "static/css/main.178980a8.css",
-    "static/js/main.0fb65e00.js"
+    "static/js/main.0a18948a.js"
   ]
 }
